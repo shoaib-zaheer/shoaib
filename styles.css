@@ -232,8 +232,8 @@ body {
   .typewrite{
     position:absolute;
     text-decoration: none;
-    bottom: 35%;
-    left: 20%;
+    bottom: 5%;
+    left: 50%;
     transform: translate(-50%);
     
   }
